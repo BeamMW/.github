@@ -11,7 +11,7 @@ Follow Beam News and Updates : [twitter](https://twitter.com/beamprivacy) | [med
 
 ---
 
-[Documentation](https://documentation.beam.mw) | [Roadmap]() | [Contribution Guidelines](https://github.com/BeamMW/beam/wiki/Contribution-Guidelines) | 
+[Forum](https://forum.beam.mw/) | [Documentation](https://documentation.beam.mw) | [Roadmap]() | [Contribution Guidelines](https://github.com/BeamMW/beam/wiki/Contribution-Guidelines) | 
 
 ---
 
