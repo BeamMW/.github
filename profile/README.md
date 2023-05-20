@@ -2,7 +2,7 @@
 
 [BEAM](https://beam.mw) is a Confidential Cryptocurrency and DeFi Platform
 
-Get started with Beam: [Download](http://beam.mw/downloads) | [Learn](https://documentation.beam.mw/) | [Buy](https://beam.mw/#exchanges) | [Mine](https://beam.mw/mining)
+Get started with Beam: [Download](http://beam.mw/downloads) | [Learn](https://beam.mw/en/docs) | [Buy](https://beam.mw/#exchanges) | [Mine](https://beam.mw/mining)
 
 Join our community on Telegram: [English](https://t.me/BeamPrivacy) | [Русский](https://t.me/Beam_RU) | [中文](https://t.me/beamchina) | [日本語](https://t.me/beamjp)
 
@@ -11,7 +11,7 @@ Follow Beam News and Updates : [twitter](https://twitter.com/beamprivacy) | [med
 
 ---
 
-[Forum](https://forum.beam.mw/) | [Documentation](https://documentation.beam.mw) | [Roadmap]() | [Contribution Guidelines](https://github.com/BeamMW/beam/wiki/Contribution-Guidelines) | 
+[Forum](https://forum.beam.mw/) | [Documentation](https://beam.mw/en/docs) | [Contribution Guidelines](https://github.com/BeamMW/beam/wiki/Contribution-Guidelines) | 
 
 ---
 
