@@ -47,6 +47,9 @@
 Here is the list of Beam related projects created by our community members but NOT tested by Beam Team
 
 * [BeamAssets.com](https://beamassets.com) - Beam DeFi dashboard and Blockchain explorer
+* [BeamBots](https://www.thebeambots.com/) - A COMMUNITY-GOVERNED, DECENTRALIZED & CONFIDENTIAL NFT ECOSYSTEM. 
+* [Community Blockchain Explorer](https://explorer.beamprivacy.community/)
+* [Beam4Me](https://beam4.me/) - instant exchange
 * [Beam Pay](https://github.com/vsnation/BeamPay) - a payment processor that allows for easy integration with your online store
 * [Beam Wallet Java API](https://github.com/beamfan/java-beam-api) - A Java library for the Beam cryptocurrency Wallet API.
 
