@@ -1,40 +1,47 @@
-![alt text](https://pbs.twimg.com/profile_banners/1006569151413063680/1623676593/600x200 "Beam Logo")
+md
+<div align="center">
 
-# Welcome to Beam
+![Beam Logo](https://pbs.twimg.com/profile_banners/1006569151413063680/1623676593/600x200 "Beam Logo")
 
-[BEAM](https://beam.mw) is a Confidential Cryptocurrency and DeFi Platform
+# Welcome to [BEAM](https://beam.mw): Your Confidential Cryptocurrency and DeFi Platform
 
-[Downloads](http://beam.mw/downloads) | [Documentation](https://beam.mw/en/docs) | [Buy](https://beam.mw/#exchanges) | [Mine](https://beam.mw/mining)
+## Beam gives you absolute control and privacy over your financial transactions
 
-#### Key Features
+</div>
 
-* All transactions are [confidential by default](https://beam.mw/en/docs/ecosystem/#private-transactions)
-* Allows creation of new [Confidential Assets](https://beam.mw/en/docs/ecosystem/#tokens-aka-beam-confidential-assets) (part of the protocol, no contracts required)
-* Supports privacy preserving [Smart Contracts](https://github.com/BeamMW/shader-sdk/wiki/Beam-Smart-Contracts) via bespoke Beam Virtual Machine [spec](https://github.com/BeamMW/shader-sdk/wiki/BVM-functions-for-shaders) based on WASM technology
-* Beautiful and usable wallets for all platforms (Win, Mac, Linux, iOS, Android, Web)
-* Bridges with Ethereum blockhain (supporting USDT, DAI, WBTC and ETH)
-* Fully decentralized Atomic Swaps (with BTC, LTC and ETH) with an in-wallet marketplace
-* Rich DeFi ecosystem including DEX, Confidential Stable Coin, Anonymous Name Service, NFT Gallery and more...
+---
 
-#### Fundamentals
+- [Downloads](http://beam.mw/downloads) | [Documentation](https://beam.mw/en/docs) | [Purchase BEAM](https://beam.mw/#exchanges) | [Mine BEAM](https://beam.mw/mining)
 
-* Launched on Jan 3rd 2019
-* Based on [LelantusMW](https://github.com/BeamMW/beam/wiki/Lelantus-MW) protocol ( [Mimblewimble paper](https://docs.beam.mw/Mimblewimble.pdf), [Lelantus paper](https://lelantus.io/lelantus.pdf) )
-* Capped [emission](https://beam.mw/en/docs/ecosystem/overview/tokenomics) with periodic halving every 4 years 
-* Governed by [BeamX DAO](https://beam.mw/en/docs/ecosystem/overview/beamx-dao-governance-framework) via [BEAMX](https://beam.mw/en/docs/ecosystem/overview/beamx-tokenomics) governance token
-* Proof of Work consensus using bespoke [BeamHash III](https://docs.beam.mw/Beam_Hash_III_Slides.pdf) algorithm. 
-* One block per minute. Block size 1 MB. ~17 TPS (avg)
-* Minable on GPUs. 
-* No premine. No ICO
+---
 
+### 💡 Unique Features 
 
-### JOIN OUR COMMUNITIES 
+- 🔒 All transactions are [confidential by default](https://beam.mw/en/docs/ecosystem/#private-transactions)
+- 🎩 Facilitates creation of [Confidential Assets](https://beam.mw/en/docs/ecosystem/#tokens-aka-beam-confidential-assets) seamlessly and securely
+- 🧩 Supports privacy preserving [Smart Contracts](https://github.com/BeamMW/shader-sdk/wiki/Beam-Smart-Contracts) via bespoke Beam Virtual Machine
+- 🏵️ Offers bridges with Ethereum blockchain (supporting USDT, DAI, WBTC and ETH)
+- 💱 Fully decentralized Atomic Swaps with BTC, LTC and ETH via our in-wallet marketplace
+- 🌈 Rich DeFi ecosystem including DEX, Confidential Stable Coin, Anonymous Name Service, NFT Gallery and more...
+- 📱 Beautiful and user-friendly wallets for all platforms: Windows, macOS, Linux, iOS, Android, Web
 
-[Beam Forum](https://forum.beam.mw/)
+### 📘 Beam Fundamentals 
 
-Telegram: [English](https://t.me/BeamPrivacy) | [Русский](https://t.me/Beam_RU) | [中文](https://t.me/beamchina) | [日本語](https://t.me/beamjp)
+- 🚀 Launched on Jan 3rd, 2019
+- 🧬 Based on [LelantusMW](https://github.com/BeamMW/beam/wiki/Lelantus-MW) protocol
+- 💹 Capped [emission](https://beam.mw/en/docs/ecosystem/overview/tokenomics) with periodic halving every 4 years 
+- 🗳️ Governed by [BeamX DAO](https://beam.mw/en/docs/ecosystem/overview/beamx-dao-governance-framework) via [BEAMX](https://beam.mw/en/docs/ecosystem/overview/beamx-tokenomics) governance token
+- ⛏️ Proof of Work consensus using bespoke [BeamHash III](https://docs.beam.mw/Beam_Hash_III_Slides.pdf) algorithm
+- ⏱️ One block per minute. Block size 1 MB. ~17 TPS (avg)
+- 🖥️ Beam can be mined on GPUs. No premine. No ICO.
 
-[twitter](https://twitter.com/beamprivacy) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [gitter](https://gitter.im/beamprivacy/Lobby) | [bitcointalk](https://bitcointalk.org/index.php?topic=5052151.0) | [youtube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?)
+---
+
+### 📡 Join Our Communities
+
+- [Beam Forum](https://forum.beam.mw/)
+- Telegram: [English](https://t.me/BeamPrivacy) | [Русский](https://t.me/Beam_RU) | [中文](https://t.me/beamchina) | [日本語](https://t.me/beamjp)
+- Stay Connected: [Twitter](https://twitter.com/beamprivacy) | [Medium](https://medium.com/beam-mw) | [Reddit](https://www.reddit.com/r/beamprivacy/) | [Gitter](https://gitter.im/beamprivacy/Lobby) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=5052151.0) | [YouTube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?)
 
 ### Community projects
 
@@ -51,6 +58,7 @@ Read the [Contribution Guide](https://github.com/BeamMW/beam/wiki/Contribution-G
 [![Build Status](https://travis-ci.org/BeamMW/beam.svg?branch=master)](https://travis-ci.org/BeamMW/beam)
 [![Build](https://github.com/BeamMW/beam/actions/workflows/build.yml/badge.svg)](https://github.com/BeamMW/beam/actions/workflows/build.yml)
 [![CodeQL](https://github.com/BeamMW/beam/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/BeamMW/beam/actions/workflows/codeql-analysis.yml)
+
 
 
 
