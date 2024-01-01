@@ -10,7 +10,7 @@
 
 ---
 
-- [Downloads](http://beam.mw/downloads) | [Documentation](https://beam.mw/en/docs) | [Purchase BEAM](https://beam.mw/#exchanges) | [Mine BEAM](https://beam.mw/mining)
+- [Downloads](http://beam.mw/downloads) | [Documentation](https://beam.mw/en/docs) | [Wiki](https://github.com/BeamMW/beam/wiki) | [Purchase BEAM](https://beam.mw/#exchanges) | [Mine BEAM](https://beam.mw/mining)
 
 ---
 
