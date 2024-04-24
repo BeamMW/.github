@@ -41,7 +41,7 @@
 - [Beam Forum](https://forum.beam.mw/)
 - Telegram: [English](https://t.me/BeamPrivacy) | [Русский](https://t.me/Beam_RU) | [中文](https://t.me/beamchina) | [日本語](https://t.me/beamjp)
 - Discord: [International](https://discord.gg/rV5bjd9F3n)
-- Stay Connected: [Twitter](https://twitter.com/beamprivacy) | [Medium](https://medium.com/beam-mw) | [Reddit](https://www.reddit.com/r/beamprivacy/) | [Gitter](https://gitter.im/beamprivacy/Lobby) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=5052151.0) | [YouTube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?)
+- Stay Connected: [Twitter](https://twitter.com/beamprivacy) | [Newsletter](https://beamprivacy.substack.com/) | [Medium](https://medium.com/beam-mw) | [Reddit](https://www.reddit.com/r/beamprivacy/) | [Gitter](https://gitter.im/beamprivacy/Lobby) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=5052151.0) | [YouTube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?)
 
 ### Community projects
 
